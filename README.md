@@ -1,6 +1,6 @@
-# gym
+# Schedulely
 
-A new Flutter project.
+A new Flutter based Scheduling application project created using Firebase as backend.
 
 ## Getting Started
 
