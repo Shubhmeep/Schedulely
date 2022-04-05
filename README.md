@@ -1,6 +1,7 @@
 # Schedulely
 
-A new Flutter based Scheduling application project created using Firebase as backend.
+A Flutter based Scheduling application project created using Firebase as backend.
+Firebase is basically used to perform all the CRUD operations and to authenticate a User.
 
 ## Getting Started
 
