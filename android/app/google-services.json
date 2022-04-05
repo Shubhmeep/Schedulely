@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614349732640",
+    "project_id": "fir-web-app-86a4e",
+    "storage_bucket": "fir-web-app-86a4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614349732640:android:c7b3aac335a7985597b545",
+        "android_client_info": {
+          "package_name": "com.example.gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614349732640-1m5mgo0n37tk6rkssukq13v0ddm337s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYcYQbxQNDKLFFcArtrHvrewpKOMGt80o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614349732640-1m5mgo0n37tk6rkssukq13v0ddm337s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
