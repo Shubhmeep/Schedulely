@@ -11,7 +11,7 @@ Firebase is basically used to perform all the CRUD operations and to authenticat
 2. Deleting Task<br>
 3. Updating Task<br>
 4. User Registration <br>
-5. Firebase used as a backend service to keep the data saved
+5. Firebase used as a backend service to keep the data saved and Auth
 
 <h2 align="left">User Interface:</h2>
 
